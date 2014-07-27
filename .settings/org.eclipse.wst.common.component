@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Spring3DAOFactoryWebApp">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Controller"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Service"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Dao"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Domain"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Mapper"/>
+        <property name="java-output-path" value="/Spring3DAOFactoryWebApp/build/classes"/>
+        <property name="context-root" value="Spring3DAOFactoryWebApp"/>
+    </wb-module>
+</project-modules>
